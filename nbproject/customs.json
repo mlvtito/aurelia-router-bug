@@ -1,0 +1,11 @@
+{
+    "elements": {
+        "au-viewport": {}
+    },
+    "attributes": {
+        "load": {
+            "context": "a"
+        },
+        "click.bind": {}
+    }
+}
